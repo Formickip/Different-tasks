@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1479288152 source:d:\codeblocks projekty\deszyfratoriszyfrator\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cstdio>
+	<fstream>
+	<string.h>
+	<mem.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
